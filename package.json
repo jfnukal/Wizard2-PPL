@@ -2,7 +2,7 @@
   "name": "projekt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jfnukal.github.io/Wizard2-PPL/",
+  "homepage": "https://jfnukal.github.io/Wizard2-PPL/index.html",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
